@@ -1,0 +1,24 @@
+cloudinary database 
+deployment issue budget => 
+node js connect cloudinary manogo uri 
+where to deploy -
+    if large application =>>X( no vps package(too consty) )
+    use Railway(1st approach)
+    use hroku (pay as use )
+    node server must have catch system(raddis or node catche (again and again request will not made ))
+    stripe payment( foreign client)
+payment
+    payment for Pakistan(delay or refuse it cost time) use payfast(Pakistan) if so budget will be little high 
+    Tell the client
+    3 percent of your transaction every product or 2.5 percent
+
+FrontEnd 
+    React
+        react application
+        for database data.js array of object and then render ;
+        if client pay : integrate database
+
+
+Next Step
+    Mobile application(it cost 5 months time) version work documentation. less compitation ()
+
