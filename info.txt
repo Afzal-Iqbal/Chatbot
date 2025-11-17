@@ -21,4 +21,9 @@ FrontEnd
 
 Next Step
     Mobile application(it cost 5 months time) version work documentation. less compitation ()
+    practice full create project
+
+company prefer (real world problem like make a software for friend adn used it regularly )
+inventory management , stock , track parking system.
+for next thing is [Agent Ai]
 
